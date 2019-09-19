@@ -12,4 +12,10 @@
         <item name="colorPrimaryDark">#D56F63</item>
         <item name="colorAccent">#D56F63</item>
     </style>
+    <style name="temaNome" parent="Theme.AppCompat.DayNight.Dialog">
+
+        <item name="colorPrimary">#D56F63</item>
+        <item name="colorPrimaryDark">#D56F63</item>
+        <item name="colorAccent">#D56F63</item>
+    </style>
 </resources>
